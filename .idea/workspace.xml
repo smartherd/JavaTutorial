@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c02245d-9c9a-4510-b63d-ec846124eac2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFundamentals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/10_TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/11_SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/12_FORLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/13_WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/14_DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/15_BreakKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/16_ContinueKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/17_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/18_MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/19_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/20_MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/21_ClassObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/30_AbstractKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/31_InterfaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/32_InterfaceExampleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/33_ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/3_ArithmeticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/4_RelationalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/5_AssignmentOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/6_IncrementDecrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/7_LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/8_IFELSE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/9_IFELSELadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/23_Set_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/24_Map_HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,106 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="13_WhileLoop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/13_WhileLoop.java">
+      <file leaf-file-name="24_Map_HashMap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/24_Map_HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14_DoWhileLoop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/14_DoWhileLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="15_BreakKeyword.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/15_BreakKeyword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17_Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/17_Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="18_MultiDimensionalArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/18_MultiDimensionalArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="19_Functions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/19_Functions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20_MethodOverloading.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/20_MethodOverloading.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="21_ClassObjects.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/21_ClassObjects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="373">
+              <caret line="28" column="74" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="74" />
               <folding>
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#831#832#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="30_AbstractKeyword.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/30_AbstractKeyword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-              <folding>
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="16_ContinueKeyword.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/16_ContinueKeyword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -186,13 +69,15 @@
         <option value="$PROJECT_DIR$/src/19_Functions.java" />
         <option value="$PROJECT_DIR$/src/20_MethodOverloading.java" />
         <option value="$PROJECT_DIR$/src/21_ClassObjects.java" />
+        <option value="$PROJECT_DIR$/src/23_Set_HashSet.java" />
+        <option value="$PROJECT_DIR$/src/24_Map_HashMap.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1" />
     <option name="y" value="23" />
-    <option name="width" value="1227" />
+    <option name="width" value="1224" />
     <option name="height" value="697" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -201,19 +86,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFund" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFund" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaFund" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFund" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -329,11 +214,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="23" width="1227" height="697" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="720" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32928944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -344,7 +229,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32876712" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2742616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1825525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -357,15 +242,88 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32928944" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/13_WhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/14_DoWhileLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/15_BreakKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/17_Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/18_MultiDimensionalArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/19_Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/20_MethodOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/21_ClassObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/16_ContinueKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/30_AbstractKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/31_InterfaceExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -409,9 +367,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/32_InterfaceExampleTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -447,9 +403,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/8_IFELSE.java.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/8_IFELSE.java.kt" />
     <entry file="file://$PROJECT_DIR$/src/7_LogicalOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -536,7 +490,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/19_Functions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
+        <state relative-caret-position="420">
           <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
@@ -551,17 +505,7 @@
     <entry file="file://$PROJECT_DIR$/src/21_ClassObjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#892#893#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-          </folding>
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -572,6 +516,25 @@
           <folding>
             <element signature="e#575#576#0" expanded="true" />
             <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/23_Set_HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/24_Map_HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="28" column="74" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
