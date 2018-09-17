@@ -1,5 +1,5 @@
 # Java Programming Tutorial for Beginners 
-Learn Dart Programming, its basics and Fundamentals from scratch.
+Learn Java Programming, its basics and Fundamentals from scratch.
 
 ## Topics to be covered
 0. Overview
