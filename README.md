@@ -47,7 +47,7 @@ Learn Java Programming, its basics and Fundamentals from scratch.
     - Heap Memory and object creation 
     - Getter and Setter 
     - Constructors
-11. More on Object Oriented Dart 
+11. More on Object Oriented Java  
     - Inheritance
     - Using constructors in Inheritance
     - Static variables, methods and Static Class 
